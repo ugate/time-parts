@@ -1,0 +1,22 @@
+{
+  "name": "time-parts",
+  "version": "1.0.0",
+  "description": "Extracts time parts from nanoseconds or milliseconds with label formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ugate/time-parts.git"
+  },
+  "keywords": [
+    "time"
+  ],
+  "author": "ugate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ugate/time-parts/issues"
+  },
+  "homepage": "https://github.com/ugate/time-parts#readme"
+}
