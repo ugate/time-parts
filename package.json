@@ -1,5 +1,5 @@
 {
-  "name": "time-parts",
+  "name": "@ugate/time-parts",
   "version": "1.0.2",
   "description": "Extracts time parts from nanoseconds or milliseconds with label formatter",
   "main": "index.js",
